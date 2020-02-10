@@ -1,0 +1,16 @@
+PODS:
+  - EJWarningCardView (1.0)
+
+DEPENDENCIES:
+  - EJWarningCardView
+
+SPEC REPOS:
+  trunk:
+    - EJWarningCardView
+
+SPEC CHECKSUMS:
+  EJWarningCardView: 435326ab2133b071d5fb53d1b4debf905b6380ea
+
+PODFILE CHECKSUM: c6effeed895ae60d32e2f8f243b1243e9d888ba3
+
+COCOAPODS: 1.8.4
