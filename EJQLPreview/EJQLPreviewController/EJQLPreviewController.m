@@ -8,10 +8,6 @@
 
 #import "EJQLPreviewController.h"
 #import <QuickLook/QuickLook.h>
-//#import <YYKit/YYKit.h>
-//#import "EJWarningCardView.h"
-//#import <EJTools/EJWarningCardView.h>
-//#import <EJWarningCardView.h>
 #import <EJWarningCardView/EJWarningCardView.h>
 #import "EJGetURLFileLength.h"
 
